@@ -2,8 +2,13 @@
 
 para descargar codigo 
 ```bash
-git clone link_repo
+git clone git@github.com:emersonxinay/juego-serpiente-python.git
 ``` 
+ubicarse en la carpeta
+```bash
+cd juego-serpiente-python
+``` 
+
 para ejecutar el codigo
 ```bash
 python3 serpiente.py
